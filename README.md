@@ -1,6 +1,6 @@
 AG-XGBoost
 
-Location-adaptive bandwidth geographically weighted XGBoost (Hu et al., 2026, Computers & Geosciences). The bandwidth of each location is selected by minimising its leave-one-out error; all code is in agxgboost.py.
+Location-adaptive bandwidth geographically weighted XGBoost. The bandwidth of each location is selected by minimising its leave-one-out error; all code is in agxgboost.py.
 
 Install
 
